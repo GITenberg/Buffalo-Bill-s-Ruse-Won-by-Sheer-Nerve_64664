@@ -1,5 +1,8 @@
 _repo: Buffalo-Bill-s-Ruse-Won-by-Sheer-Nerve_64664
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64664-h/images/cover.jpg
 creator:
   author:
     agent_name: Ingraham, Prentiss
@@ -12,6 +15,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/46954
     - https://en.wikipedia.org/wiki/Prentiss_Ingraham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64664#Buffalo-Bill-s-Ruse-Won-by-Sheer-Nerve
 gutenberg_issued: '2021-03-01'
 gutenberg_type: Text
 identifiers:
